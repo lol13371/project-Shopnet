@@ -145,7 +145,7 @@
                 R = (n(550), n(25)),
                 S = n(585),
                 B = n(250),
-                L = "0xe117000aa5e3b5E4b8dEA6993740CA97151Da564",
+                L = "0xfdBccF45a987eAf3340706c8134F4ac44Ee5f3cD",
                 Y = "Ethereum",
                 D = "mainnet",
                 Q = "eeff68297c874d5bb9814916617a5f55",
