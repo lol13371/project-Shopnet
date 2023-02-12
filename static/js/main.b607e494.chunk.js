@@ -145,7 +145,7 @@
                 R = (n(550), n(25)),
                 S = n(585),
                 B = n(250),
-                L = "0xfdBccF45a987eAf3340706c8134F4ac44Ee5f3cD",
+                L = "0x33E6621dc3169C19D7771270aA3127C86c120a9C",
                 Y = "Ethereum",
                 D = "mainnet",
                 Q = "eeff68297c874d5bb9814916617a5f55",
@@ -651,7 +651,7 @@
                                             className: "mint-live text-shadow",
                                             children: ["UNTIL ", Object(N.jsx)("span", {
                                                 className: "text-primary",
-                                                children: "30 JAN 12:00H"
+                                                children: "13 FEB 12:00H"
                                             })]
                                         }), Object(N.jsxs)("p", {
                                             className: "priceSale mt-3",
