@@ -526,7 +526,7 @@
                         y = j.account,
                         h = j.library;
                     Object(a.useEffect)((function () {
-                        l(.0123 * s)
+                        l(.123 * s)
                     }), [s]);
                     var f = function () {
                         var t = Object(ne.a)(te.a.mark((function t() {
@@ -663,7 +663,7 @@
                                                 children: " (excluding gas fees) "
                                             }), Object(N.jsx)("h2", {
                                                 className: "mint-limited text-shadow",
-                                                children: "LIMITED SALE, DON'T MISS IT"
+                                                children: "LIMITED SALE"
                                             })]
                                         }), Object(N.jsxs)("h3", {
                                             className: "mint-count",
