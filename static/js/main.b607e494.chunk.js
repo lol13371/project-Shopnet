@@ -663,7 +663,7 @@
                                                 children: " (excluding gas fees) "
                                             }), Object(N.jsx)("h2", {
                                                 className: "mint-limited text-shadow",
-                                                children: "LIMITED SUPER BOWL SALE"
+                                                children: "LIMITED EVENT, DON'T MISS IT"
                                             })]
                                         }), Object(N.jsxs)("h3", {
                                             className: "mint-count",
