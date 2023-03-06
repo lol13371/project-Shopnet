@@ -526,7 +526,7 @@
                         y = j.account,
                         h = j.library;
                     Object(a.useEffect)((function () {
-                        l(.123 * s)
+                        l(.088 * s)
                     }), [s]);
                     var f = function () {
                         var t = Object(ne.a)(te.a.mark((function t() {
@@ -657,7 +657,7 @@
                                             className: "priceSale mt-3",
                                             children: [Object(N.jsx)("span", {
                                                 id: "prices",
-                                                children: "Price : 0.123 ETH "
+                                                children: "Price : 0.088 ETH "
                                             }), " ", Object(N.jsx)("br", {}), Object(N.jsx)("span", {
                                                 id: "excluding",
                                                 children: " (excluding gas fees) "
